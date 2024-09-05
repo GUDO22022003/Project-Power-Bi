@@ -33,7 +33,7 @@ Thông tin này giúp bạn phân tích hiệu quả của từng sản phẩm, 
 ## CẤU TRÚC THƯ MỤC:
 
 *   **`Data`:** Chứa dữ liệu thô (Excel/CSV).
-*   **`PowerBi`:** Chứa file Power BI (.pbix) để tạo báo cáo.
+*   **`PowerBI`:** Chứa file Power BI (.pbix) để tạo báo cáo.
 *   **`Reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
 *   **`Images`:** Chứa các hình ảnh minh họa cho báo cáo.
 
