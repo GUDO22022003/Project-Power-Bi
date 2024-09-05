@@ -19,8 +19,8 @@ Dưới đây là danh sách các dự án có trong kho lưu trữ này. Hãy n
 
 **Lưu ý:** Mỗi dự án có thể bao gồm các file Excel (.xlsx), Power BI (.pbix) và báo cáo ở định dạng PDF.
 
-## Bắt Đầu
+## HƯỚNG DẪN
 
-1. Chọn một dự án bạn muốn khám phá từ danh sách trên.
-2. Truy cập vào nhánh tương ứng với dự án đó.
+1. Chọn một nhánh mà bạn muốn khám phá
+2. Truy cập vào dự án có trong các nhánh đó
 3. Xem file `README.md` trong nhánh đó để biết thêm thông tin chi tiết về dự án, cách chạy báo cáo và dữ liệu mẫu (nếu có).
