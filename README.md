@@ -1,26 +1,39 @@
-# Dự án Trực quan hóa Dữ liệu với Power BI 📊
+# Phân tích Doanh Thu và Số Lượng Sản Phẩm Theo Thương Hiệu 📊
 
-Chào mừng bạn đến với dự án Power BI, nơi dữ liệu thô được biến hóa thành những hiểu biết sâu sắc! 
+**Khám phá hiệu suất bán hàng theo thương hiệu và doanh thu với báo cáo trực quan này!**
 
-Dự án này tập trung vào việc thu thập, làm sạch và trực quan hóa dữ liệu bằng Power BI để tạo ra các báo cáo và dashboard trực quan, dễ hiểu.
-# Kho Lưu Trữ Dự Án Power BI 📊
+Báo cáo này tập trung phân tích số lượng sản phẩm bán ra và doanh thu theo từng thương hiệu, kết hợp với dữ liệu địa lý để bạn có cái nhìn tổng quan về thị trường.
 
-Chào mừng bạn đến với kho lưu trữ các dự án Power BI, nơi dữ liệu thô được chuyển hóa thành thông tin chi tiết!
+## **Tổng quan về Số lượng sản phẩm theo Thương hiệu** 📦
 
-Kho lưu trữ này chứa nhiều dự án khác nhau, mỗi dự án tập trung vào một chủ đề hoặc lĩnh vực cụ thể. 
+Biểu đồ này cho thấy tổng số lượng sản phẩm được bán ra của mỗi thương hiệu. Bạn có thể dễ dàng nhận biết thương hiệu nào đang dẫn đầu về số lượng sản phẩm bán ra.
 
-## Danh sách Dự Án
+## **Top 3 Thương hiệu Hàng đầu theo Số lượng Đơn hàng** 🏆
 
-Dưới đây là danh sách các dự án có trong kho lưu trữ này. Hãy nhấp vào liên kết để xem chi tiết từng dự án:
+Biểu đồ theo dõi số lượng đơn hàng theo thời gian của 3 thương hiệu hàng đầu, giúp bạn so sánh hiệu suất và xu hướng phát triển của họ. 
 
-* [Phân tích bán hàng]: Phân tích dữ liệu bán hàng, dự đoán doanh thu và theo dõi hiệu suất bán hàng.
-* [Phân tích nhân khẩu học, hành vi, ...]: Nghiên cứu nhân khẩu học, phân tích hành vi của khách hàng.
-* [Phân tích xu hướng]: Phân tích kết quả kinh doanh, nghiên cứu và tìm ra xu hướng theo địa lí, thời gian.
+## **Doanh Thu và Lợi Nhuận** 💰
 
-**Lưu ý:** Mỗi dự án có thể bao gồm các file Excel (.xlsx), Power BI (.pbix) và báo cáo ở định dạng PDF.
+Biểu đồ so sánh doanh thu và lợi nhuận của các thương hiệu. Từ đó, bạn có thể nhận biết thương hiệu nào mang lại lợi nhuận cao nhất và thương hiệu nào cần được cải thiện.
 
-## HƯỚNG DẪN
+## **Phân bố Địa lý** 🌍
 
-1. Chọn nhánh mà bạn muốn khám phá
-2. Truy cập vào dự án có trong các nhánh đó
-3. Xem file `README.md` trong nhánh đó để biết thêm thông tin chi tiết về dự án, cách chạy báo cáo và dữ liệu mẫu (nếu có).
+Bản đồ hiển thị phân bố địa lý của các đơn hàng theo quốc gia. Thông tin này hữu ích cho việc:
+
+* Xác định thị trường trọng điểm.
+* Lập kế hoạch mở rộng thị trường.
+* Tối ưu hóa hoạt động logistics. 
+
+## Cấu trúc thư mục:
+
+* **`data`:** Chứa dữ liệu thô (Excel/CSV).
+* **`powerbi`:** Chứa file Power BI (.pbix) để tạo báo cáo.
+* **`reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
+* **`images`:** Chứa các hình ảnh minh họa cho báo cáo. 
+
+## Cách sử dụng:
+
+1. Tải xuống dữ liệu từ thư mục `data`.
+2. Mở file Power BI (.pbix) trong Power BI Desktop.
+3. Kết nối dữ liệu đã tải xuống với file Power BI.
+4. Khám phá báo cáo.
