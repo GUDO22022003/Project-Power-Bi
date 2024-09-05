@@ -30,18 +30,18 @@ Báo cáo cung cấp thông tin chi tiết về từng giao dịch, bao gồm:
 
 Thông tin này giúp bạn phân tích hiệu quả của từng sản phẩm, chiến dịch bán hàng và đưa ra các điều chỉnh phù hợp.
 
-## Cấu trúc thư mục:
+## CẤU TRÚC THƯ MỤC:
 
-*   **`data`:** Chứa dữ liệu thô (Excel/CSV).
-*   **`powerbi`:** Chứa file Power BI (.pbix) để tạo báo cáo.
-*   **`reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
-*   **`images`:** Chứa các hình ảnh minh họa cho báo cáo.
+*   **`Data`:** Chứa dữ liệu thô (Excel/CSV).
+*   **`PowerBi`:** Chứa file Power BI (.pbix) để tạo báo cáo.
+*   **`Reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
+*   **`Images`:** Chứa các hình ảnh minh họa cho báo cáo.
 
-## Cách sử dụng:
+## HƯỚNG DẪN SỬ DỤNG:
 
-1.  Tải xuống dữ liệu từ thư mục `data`.
-2.  Mở file Power BI (.pbix) trong Power BI Desktop.
-3.  Kết nối dữ liệu đã tải xuống với file Power BI.
-4.  Khám phá báo cáo.
+1.  Tải/Mở để xem dữ thiệu thô từ các file Excel `.csv`.
+2.  Tải/Mở file PDF `.pdf`  để xem báo cáo cố định
+3.  Tải/Mở file Power BI `.pbix`  trong Power BI Desktop để tùy chỉnh báo cáo theo nhu cầu.
+5.  Khám phá báo cáo.
 
 Hy vọng báo cáo này sẽ cung cấp cho bạn cái nhìn sâu sắc về hoạt động kinh doanh và hỗ trợ bạn trong việc đưa ra quyết định chiến lược hiệu quả!
