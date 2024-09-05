@@ -32,20 +32,21 @@ Phân tích doanh thu và lợi nhuận theo từng sản phẩm cụ thể, xá
 
 Theo dõi xu hướng doanh thu, lợi nhuận và tỷ lệ hoàn trả theo thời gian, hỗ trợ việc đưa ra dự báo và điều chỉnh chiến lược kinh doanh một cách linh hoạt.
 
-## Cấu trúc thư mục:
+## CẤU TRÚC THƯ MỤC:
 
-* **`data`:** Chứa dữ liệu thô về khách hàng, đơn hàng, sản phẩm (Excel/CSV).
-* **`powerbi`:** Chứa file Power BI (.pbix) để tạo báo cáo và dashboard.
-* **`reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
+*   **`Data`:** Chứa dữ liệu thô (Excel/CSV).
+*   **`PowerBI`:** Chứa file Power BI (.pbix) để tạo báo cáo.
+*   **`Reports`:** Chứa báo cáo ở định dạng PDF (.pdf).
+*   **`Images`:** Chứa các hình ảnh minh họa cho báo cáo.
 
-## Cách sử dụng:
+## HƯỚNG DẪN SỬ DỤNG:
 
-1. Tải xuống dữ liệu từ thư mục `data`.
-2. Mở file Power BI (.pbix) trong Power BI Desktop.
-3. Kết nối dữ liệu đã tải xuống với file Power BI.
-4. Khám phá báo cáo và dashboard được tạo sẵn.
+1.  Tải/Mở để xem dữ thiệu thô từ các file Excel `.csv`.
+2.  Tải/Mở file PDF `.pdf`  để xem báo cáo cố định.
+3.  Tải/Mở file Power BI `.pbix`  trong Power BI Desktop để tùy chỉnh báo cáo theo nhu cầu.
+5.  Khám phá báo cáo.
 
-**Lưu ý:**
+**LƯU Ý:**
 
 * Báo cáo và dashboard được xây dựng dựa trên dữ liệu mẫu. 
 * Bạn có thể tùy chỉnh báo cáo và dashboard theo nhu cầu phân tích của riêng bạn.
