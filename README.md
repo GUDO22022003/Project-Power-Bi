@@ -1,4 +1,4 @@
-# Dự Án Phân Tích Dữ Liệu Khách Hàng & Doanh Thu 📊
+# Dự Án Phân Tích Dữ Liệu Bán Hàng & Khách Hàng 📊
 
 **Khám phá sâu hơn về khách hàng và hiệu suất kinh doanh với dự án phân tích dữ liệu chuyên sâu này!** 🚀
 
