@@ -21,6 +21,6 @@ Dưới đây là danh sách các dự án có trong kho lưu trữ này. Hãy n
 
 ## HƯỚNG DẪN
 
-1. Chọn một nhánh mà bạn muốn khám phá
+1. Chọn nhánh mà bạn muốn khám phá
 2. Truy cập vào dự án có trong các nhánh đó
 3. Xem file `README.md` trong nhánh đó để biết thêm thông tin chi tiết về dự án, cách chạy báo cáo và dữ liệu mẫu (nếu có).
