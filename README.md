@@ -51,4 +51,6 @@ Theo dõi xu hướng doanh thu, lợi nhuận và tỷ lệ hoàn trả theo th
 * Báo cáo và dashboard được xây dựng dựa trên dữ liệu mẫu. 
 * Bạn có thể tùy chỉnh báo cáo và dashboard theo nhu cầu phân tích của riêng bạn.
 
+![image](https://github.com/user-attachments/assets/1fc4cc57-0065-4b41-ada3-d12e9cd45f3a)
+
 Hãy để dự án phân tích này giúp bạn hiểu rõ hơn về khách hàng, tối ưu hóa hoạt động kinh doanh và đưa ra những quyết định sáng suốt hơn!
