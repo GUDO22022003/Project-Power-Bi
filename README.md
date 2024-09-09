@@ -3,7 +3,6 @@
 **Khám phá hiệu suất kinh doanh toàn diện với dự án Power BI phân tích dữ liệu Maven Market!**
 
 Dự án này đào sâu vào hoạt động kinh doanh của Maven Market, cung cấp cái nhìn chi tiết về doanh thu, lợi nhuận, hiệu suất sản phẩm và hành vi khách hàng. Thông qua các báo cáo trực quan và dashboard tương tác được xây dựng bằng Power BI, bạn sẽ có được:
-
 ## **Tổng quan về hiệu suất**📈
 Theo dõi các chỉ số quan trọng như doanh thu, lợi nhuận, số lượng giao dịch và tỷ lệ hoàn trả, so sánh với mục tiêu và xác định các lĩnh vực cần cải thiện.
 ## **Phân tích bán hàng theo khu vực**🌎 
@@ -33,5 +32,7 @@ Theo dõi xu hướng doanh thu hàng tuần để bạn có thể dự báo nhu
 
 * Báo cáo và dashboard được xây dựng dựa trên dữ liệu mẫu.
 * Bạn có thể tùy chỉnh báo cáo và dashboard theo nhu cầu phân tích cụ thể của mình.
+
+![image](https://github.com/user-attachments/assets/49379110-644c-42fa-9f60-d575cfc40a53)
 
 Hãy cùng Power BI khám phá những hiểu biết sâu sắc từ dữ liệu của Maven Market và đưa ra những quyết định kinh doanh thông minh hơn! 
